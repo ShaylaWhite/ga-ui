@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class MasterSwordComponent {
 
+  proclamation = "Let you light shine"
+
 }
+//files that ties all the files together 
